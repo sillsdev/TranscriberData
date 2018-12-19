@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tasks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="tasks.xsd" version="1.0">
+  <project id="ztt" name="Sample" guid="" lang="und" sync="true" claim="true" uri="/assets/openBible.png">
+    <task id="ztt-LUK-001-001004" length="28.3689795918367" state="Transcribe">
+      <name>Introduction</name>
+      <reference>LUK 1:1-4</reference>
+    </task>
+    <task id="ztt-LUK-001-005025" length="157.204897959184" state="Transcribe">
+      <name>The birth of John the Baptist foretold</name>
+      <reference>LUK 1:5-25</reference>
+    </task>
+    <task id="ztt-LUK-001-026038" length="79.3861224489796" state="Transcribe">
+      <name>The birth of Jesus foretold</name>
+      <reference>LUK 1:26-38</reference>
+    </task>
+    <task id="ztt-LUK-001-039045" length="36.7281632653061" state="Transcribe">
+      <name>Mary visits Elizabeth</name>
+      <reference>LUK 1:39-45</reference>
+    </task>
+    <task id="ztt-LUK-001-046056" length="54.0734693877551" state="Transcribe">
+      <name>Mary's song</name>
+      <reference>LUK 1:46-56</reference>
+    </task>
+    <task id="ztt-LUK-001-057066" length="58.6448979591837" state="Transcribe">
+      <name>The birth of John</name>
+      <reference>LUK 1:57-66</reference>
+    </task>
+    <task id="ztt-LUK-001-067080" length="68.5714285714286" state="Transcribe">
+      <name>Zechariah's song</name>
+      <reference>LUK 1:67-80</reference>
+    </task>
+  </project>
+</tasks>

@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<users xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="users.xsd" version="1.0">
+  <user>
+    <username id="admin">
+      <password />
+      <avatarUri>images/admin1.png</avatarUri>
+      <fullname>Adam</fullname>
+    </username>
+    <role>transcriber</role>
+    <role>reviewer</role>
+    <role>administrator</role>
+    <hotkey id="play-pause">ESC</hotkey>
+    <hotkey id="back">F2</hotkey>
+    <hotkey id="forward">F3</hotkey>
+    <hotkey id="slower">F4</hotkey>
+    <hotkey id="faster">F5</hotkey>
+    <uilang>en</uilang>
+    <timer>countup</timer>
+    <speed>100</speed>
+    <progress>bar</progress>
+  </user>
+  <user>
+    <username id="tommy">
+      <password />
+      <avatarUri>images/tommy1.png</avatarUri>
+      <fullname>Tommy</fullname>
+    </username>
+    <role>transcriber</role>
+    <project id="ztt">
+      <fontfamily>SIL Charis</fontfamily>
+      <fontsize>large</fontsize>
+    </project>
+    <hotkey id="play-pause">ESC</hotkey>
+    <hotkey id="back">F2</hotkey>
+    <hotkey id="forward">F3</hotkey>
+    <hotkey id="slower">F4</hotkey>
+    <hotkey id="faster">F5</hotkey>
+    <uilang>en</uilang>
+    <timer>countup</timer>
+    <speed>100</speed>
+    <progress>bar</progress>
+  </user>
+  <user>
+    <username id="rachel">
+      <password />
+      <avatarUri>images/rachel1.png</avatarUri>
+      <fullname>Rachel</fullname>
+    </username>
+    <role>reviewer</role>
+    <project id="ztt">
+      <fontfamily>SIL Charis</fontfamily>
+      <fontsize>large</fontsize>
+    </project>
+    <hotkey id="play-pause">ESC</hotkey>
+    <hotkey id="back">F2</hotkey>
+    <hotkey id="forward">F3</hotkey>
+    <hotkey id="slower">F4</hotkey>
+    <hotkey id="faster">F5</hotkey>
+    <uilang>en</uilang>
+    <timer>countup</timer>
+    <speed>100</speed>
+    <progress>bar</progress>
+  </user>
+</users>
